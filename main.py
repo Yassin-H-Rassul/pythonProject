@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from nnfs.datasets import spiral_data
 import nnfs
 # hello it is me
+# hello it is me Ahmad
 # x_train is the input variable (size in 1000 square feet)
 # y_train is the target (price in 1000s of dollars)
 nnfs.init()
